@@ -1,2 +1,2 @@
 My first readme
-ALX is a good course
+ALX is a good course.
